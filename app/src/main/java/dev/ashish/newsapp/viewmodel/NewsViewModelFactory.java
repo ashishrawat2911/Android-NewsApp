@@ -1,9 +1,9 @@
 package dev.ashish.newsapp.viewmodel;
 
 import android.app.Application;
-import android.arch.lifecycle.ViewModel;
-import android.arch.lifecycle.ViewModelProvider;
-import android.support.annotation.NonNull;
+import androidx.lifecycle.ViewModel;
+import androidx.lifecycle.ViewModelProvider;
+import androidx.annotation.NonNull;
 
 public class NewsViewModelFactory implements ViewModelProvider.Factory {
 

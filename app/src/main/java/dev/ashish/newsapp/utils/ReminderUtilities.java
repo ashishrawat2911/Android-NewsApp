@@ -1,7 +1,7 @@
 package dev.ashish.newsapp.utils;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.Log;
 
 import dev.ashish.newsapp.service.NotificationReminderJobService;
